@@ -1,0 +1,60 @@
+2025-03-11 16:23:11,919 - root - INFO - Environment: DEV, AppName: Spark_Project
+2025-03-11 16:23:11,919 - root - INFO - spark***-> <pyspark.sql.session.SparkSession object at 0x0000018A5ECD5EE0>
+2025-03-11 16:23:11,920 - root - INFO - Spark Object Created
+2025-03-11 16:23:11,920 - Validate - WARNING - started the get_current_date method
+2025-03-11 16:23:11,920 - Validate - WARNING - Type of query: {type(query)}, Value: {query}
+2025-03-11 16:23:16,214 - Validate - WARNING - Validating spark object with current date -{current_date}
+2025-03-11 16:23:16,214 - Validate - WARNING - Validation Done, go forward...
+2025-03-11 16:26:52,874 - root - INFO - Environment: DEV, AppName: Spark_Project
+2025-03-11 16:26:52,875 - root - INFO - spark***-> <pyspark.sql.session.SparkSession object at 0x000001C735BC6850>
+2025-03-11 16:26:52,875 - root - INFO - Spark Object Created
+2025-03-11 16:26:52,876 - Validate - WARNING - started the get_current_date method
+2025-03-11 16:26:57,038 - Validate - WARNING - Validation Done, go forward...
+2025-03-11 16:29:41,231 - root - INFO - Environment: DEV, AppName: Spark_Project
+2025-03-11 16:29:41,231 - root - INFO - spark***-> <pyspark.sql.session.SparkSession object at 0x0000018AF2F46820>
+2025-03-11 16:29:41,232 - root - INFO - Spark Object Created
+2025-03-11 16:29:41,232 - Validate - WARNING - started the get_current_date method
+2025-03-11 16:29:41,233 - Validate - WARNING - Type of query: <class 'str'>, Value: SELECT current_date
+2025-03-11 16:29:45,346 - Validate - WARNING - Validating spark object with current date -2025-03-11
+2025-03-11 16:29:45,346 - Validate - WARNING - Validation Done, go forward...
+2025-03-11 16:41:03,898 - root - INFO - Environment: DEV, AppName: Spark_Project
+2025-03-11 16:41:03,899 - root - INFO - spark***-> <pyspark.sql.session.SparkSession object at 0x000002184E248070>
+2025-03-11 16:41:03,899 - root - INFO - Spark Object Created
+2025-03-11 16:41:03,900 - Validate - WARNING - started the get_current_date method
+2025-03-11 16:41:03,900 - Validate - WARNING - Type of query: <class 'str'>, Value: SELECT current_date
+2025-03-11 16:41:08,150 - Validate - WARNING - Validating spark object with current date -2025-03-11
+2025-03-11 16:41:08,150 - Validate - WARNING - Validation Done, go forward...
+2025-03-11 16:41:08,150 - root - INFO - File : flight.parquet
+2025-03-11 16:43:58,096 - root - INFO - Environment: DEV, AppName: Spark_Project
+2025-03-11 16:43:58,097 - Validate - WARNING - started the get_current_date method
+2025-03-11 16:43:58,097 - Validate - WARNING - Type of query: <class 'str'>, Value: SELECT current_date
+2025-03-11 16:44:02,374 - Validate - WARNING - Validating spark object with current date -2025-03-11
+2025-03-11 16:44:02,374 - Validate - WARNING - Validation Done, go forward...
+2025-03-11 16:44:18,290 - root - INFO - Environment: DEV, AppName: Spark_Project
+2025-03-11 16:44:18,291 - Validate - WARNING - started the get_current_date method
+2025-03-11 16:44:18,291 - Validate - WARNING - Type of query: <class 'str'>, Value: SELECT current_date
+2025-03-11 16:44:22,377 - Validate - WARNING - Validating spark object with current date -2025-03-11
+2025-03-11 16:44:22,377 - Validate - WARNING - Validation Done, go forward...
+2025-03-11 17:03:09,604 - root - INFO - Environment: DEV, AppName: Spark_Project
+2025-03-11 17:03:09,605 - Validate - WARNING - started the get_current_date method
+2025-03-11 17:03:09,605 - Validate - WARNING - Type of query: <class 'str'>, Value: SELECT current_date
+2025-03-11 17:03:14,172 - Validate - WARNING - Validating spark object with current date -2025-03-11
+2025-03-11 17:03:14,172 - Validate - WARNING - Validation Done, go forward...
+2025-03-11 17:03:14,173 - root - INFO - reading file of parquet
+2025-03-11 17:19:31,639 - root - INFO - Environment: DEV, AppName: Spark_Project
+2025-03-11 17:19:31,639 - Validate - WARNING - started the get_current_date method
+2025-03-11 17:19:31,640 - Validate - WARNING - Type of query: <class 'str'>, Value: SELECT current_date
+2025-03-11 17:19:35,722 - Validate - WARNING - Validating spark object with current date -2025-03-11
+2025-03-11 17:19:35,722 - Validate - WARNING - Validation Done, go forward...
+2025-03-11 17:19:35,722 - root - INFO - reading file of parquet
+2025-03-11 17:19:35,723 - Ingest - INFO - load files method started............
+2025-03-11 17:19:36,422 - Ingest - WARNING - dataframe created successfully which is of {file_format}
+2025-03-11 17:31:03,213 - root - INFO - Environment: DEV, AppName: Spark_Project
+2025-03-11 17:31:03,213 - Validate - WARNING - started the get_current_date method
+2025-03-11 17:31:03,213 - Validate - WARNING - Type of query: <class 'str'>, Value: SELECT current_date
+2025-03-11 17:31:07,585 - Validate - WARNING - Validating spark object with current date -2025-03-11
+2025-03-11 17:31:07,585 - Validate - WARNING - Validation Done, go forward...
+2025-03-11 17:31:07,586 - root - INFO - reading file of parquet
+2025-03-11 17:31:07,586 - Ingest - INFO - load files method started............
+2025-03-11 17:31:08,090 - Ingest - WARNING - dataframe created successfully which is of {file_format}
+2025-03-11 17:31:09,279 - Ingest - WARNING - Number of records persent is df are 255
